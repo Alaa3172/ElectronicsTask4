@@ -1,4 +1,4 @@
-# ESP32 with Relay, LDR, and PIR Sensor
+# Electronics Task 4
 
 This project demonstrates how to connect and control a relay using an ESP32 based on inputs from a Light Dependent Resistor (LDR) and a Passive Infrared (PIR) sensor.
 
